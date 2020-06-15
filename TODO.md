@@ -1,5 +1,5 @@
 # Dudeman. This is the to do list. We do what is on said list.
-
+  - Re-format database schemas to be compatible with the new Firebase backend
   - Study HTTPS password and credential submission to server
     - Make it secure dudeman
     - Utilize session data & cookies
