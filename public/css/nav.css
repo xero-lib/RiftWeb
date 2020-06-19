@@ -64,7 +64,7 @@ main {
 }
 
 .navbar:hover .logo svg {
-	transform: rotate(-360deg);
+	/* transform: rotate(-360deg); */
 }
 /* End Nav Logo
    Start Nav Elements */
