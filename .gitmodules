@@ -7,3 +7,6 @@
 [submodule "RiftApp/submodules"]
 	path = RiftApp/submodules
 	url = https://github.com/telegramdesktop/tdesktop.git
+[submodule "gen-submodules/tdlib"]
+	path = gen-submodules/tdlib
+	url = https://github.com/tdlib/td.git
