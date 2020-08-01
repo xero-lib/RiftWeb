@@ -1,0 +1,6 @@
+[submodule "RiftWeb/submodules/webogram"]
+	path = RiftWeb/submodules/webogram
+	url = https://github.com/zhukov/webogram.git
+[submodule "gen-submodules/telegramcli"]
+	path = gen-submodules/telegramcli
+	url = https://github.com/vysheng/tg.git
