@@ -4,3 +4,6 @@
 [submodule "gen-submodules/telegramcli"]
 	path = gen-submodules/telegramcli
 	url = https://github.com/vysheng/tg.git
+[submodule "RiftApp/submodules"]
+	path = RiftApp/submodules
+	url = https://github.com/telegramdesktop/tdesktop.git
