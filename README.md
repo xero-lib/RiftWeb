@@ -1,4 +1,3 @@
 # Rift
 
-## The angular brach
-## By sky.spa and xero-lib
+The angular brach, by sky.spa and xero-lib
