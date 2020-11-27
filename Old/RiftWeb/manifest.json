@@ -1,0 +1,29 @@
+{
+    "name": "Rift - centralized communications",
+    "short_name": "Rift",
+    "display": "standalone",
+    "theme_color": "#420DAB",
+    "start_url": "index.html",
+    "icons": [
+        {
+            "src": "",
+            "sizes": "",
+            "type": "image/png"
+        },
+        {
+            "src": "/vector-icons/20522817-fde7-6a88-54a9-496b1c8aee53.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        }    ],
+    "related_applications": [
+        {
+            "platform": "play",
+            "url": "",
+            "id": ""
+        },
+        {
+            "platform": "itunes",
+            "url": ""
+        }
+     ]
+}
