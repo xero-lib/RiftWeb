@@ -39,12 +39,6 @@ body::-webkit-scrollbar-thumb {
 	background: var(--color-brand);
 }
 
-main {
-	margin-left: 5rem;
-	padding: 1rem;
-		
-}
-
 /* Nav Logo */
 .logo {
 	font-weight: bold;
@@ -79,7 +73,7 @@ main {
 /* End Nav Logo
    Start Nav Elements */
 
-.navbar {
+.sidebar-default {
 	/* These two sent to media query: */
 	/* width: 5rem;
 	height: 100vh; */
@@ -93,19 +87,28 @@ main {
 	text-decoration: underline;
 }
 
+.titlerift {
+	color: #6649b8;
+	font-family: 'Open Sans'
+}
+
 .footer {
-	padding-top: 15%;
 	text-align: right;
+	position: fixed;
+	right: 15px;
+	bottom: 15px;
 }
 
 .description {
-	padding-top: 2%;
+	/* padding-top: ; */
 	padding-left: 15%;
 	padding-right: 15%;
 	text-align: center;
+	position: fixed;
+	bottom: auto;
 }
 
-.navbar-nav {
+.sidebar-nav {
 	list-style: none;
 	padding: 0;
 	margin: 0;
@@ -150,6 +153,7 @@ main {
 .link-text {
 	display: none;
 	margin-left: 1rem;
+	color: white;
 }
 
 .nav-link svg {
